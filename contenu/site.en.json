@@ -1,0 +1,241 @@
+{
+  "_info": "Version anglaise. Seuls les textes à traduire sont ici ; tout le reste (photos, réseaux…) vient de site.json.",
+  "metier": "Photographer",
+  "region": "Brittany",
+  "description": "Romane Chaslin, photographer based in Rennes, France: concerts, portraits, documentary, corporate and travel photography. Capturing the moment that makes the difference.",
+  "contact": {
+    "sujet_mail": "New message from romanechaslin.fr (English)",
+    "types_projet": [
+      {
+        "cle": "concert",
+        "nom": "Concert"
+      },
+      {
+        "cle": "corporate",
+        "nom": "Corporate"
+      },
+      {
+        "cle": "reportage",
+        "nom": "Documentary"
+      },
+      {
+        "cle": "portrait",
+        "nom": "Portrait"
+      },
+      {
+        "cle": "portrait-pro",
+        "nom": "Professional portrait"
+      },
+      {
+        "cle": "voyage",
+        "nom": "Travel / tourism"
+      },
+      {
+        "cle": "autre",
+        "nom": "Other"
+      }
+    ]
+  },
+  "interface": {
+    "aller_contenu": "Skip to content",
+    "accueil": "Home",
+    "accueil_aria": "home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "mentions": "Legal notice",
+    "nav_principale": "Main navigation",
+    "nav_mobile": "Mobile navigation",
+    "ouvrir_menu": "Open menu",
+    "fermer_menu": "Close menu",
+    "autre_langue": "Français",
+    "autre_langue_court": "FR",
+    "autre_langue_aria": "Version française",
+    "le_site": "Site",
+    "thematiques": "Galleries",
+    "me_suivre": "Follow me",
+    "droits": "All photographs are protected by copyright.",
+    "nouvel_onglet": "new tab",
+    "photo": "photo",
+    "photos": "photos",
+    "sur": "of",
+    "voir_instagram": "View on Instagram",
+    "choisir_diapo": "Choose the photo on display",
+    "visionneuse": "Photo viewer",
+    "fermer": "Close",
+    "precedente": "Previous photo",
+    "suivante": "Next photo",
+    "affichage": "View",
+    "vue_galerie": "Gallery",
+    "vue_planche": "Contact sheet",
+    "eteindre": "Lights off",
+    "rallumer": "Lights on",
+    "galerie_de": "Gallery",
+    "envoi": "Sending…",
+    "envoyer": "Send",
+    "prenom": "First name",
+    "nom": "Last name",
+    "email": "Email",
+    "type_projet": "Type of project",
+    "choisir": "Choose…",
+    "message": "Message",
+    "obligatoire": "required",
+    "anti_robot": "Leave empty",
+    "titre_404": "This page doesn’t exist or has moved.",
+    "bouton_404": "See the portfolio",
+    "musicien_alt": "Musician on stage, in black and white",
+    "passion_alt": "Mont-Saint-Michel and a flock of sheep at sunset",
+    "romane_alt": "Portrait of Romane Chaslin"
+  },
+  "accueil": {
+    "titre_seo": "Romane Chaslin — Photographer in Rennes, France",
+    "heros": {
+      "titre": "Welcome",
+      "accroche_titre": "Photographer in Rennes, France",
+      "accroche": "Concerts, portraits, documentary and travel.",
+      "diapos": [
+        {
+          "photo": "p17-9962",
+          "libelle": "Travel"
+        }
+      ]
+    },
+    "regard": {
+      "vague": "The way I see photography",
+      "texte": "I’ve been passionate about photography for years, and I love taking on challenges and venturing into all kinds of fields. Concerts, weddings, street or travel photography: it’s the variety of projects that inspires and drives me. Whether I’m shooting on film or with the latest digital camera, the goal behind my images is always the same: capturing the moment that makes the difference.",
+      "bouton": "See the photos"
+    },
+    "themes": {
+      "titre": "Galleries",
+      "lien": "Full portfolio"
+    },
+    "passion": {
+      "titre": "About…",
+      "etiquette": "A passion that started early",
+      "paragraphes": [
+        "I got my first camera at 14, and it hasn’t left my side since. Over the years, I’ve explored all kinds of landscapes and captured moments that seem suspended in time. Every image tells a story, whether it’s that bear in Canada, that loving gaze or that singer playing the last show of a tour.",
+        "Welcome to my world!"
+      ],
+      "lien": "More about me"
+    },
+    "instagram": {
+      "vague": "Follow me on Instagram",
+      "bouton": "See more"
+    }
+  },
+  "portfolio": {
+    "titre_seo": "Portfolio — Romane Chaslin, photographer in Rennes, France",
+    "description": "The portfolio of Romane Chaslin, photographer based in Rennes, France: concerts, corporate, documentary, portrait, professional portrait and travel photography.",
+    "titre": "Capturing the moment that makes the *difference*",
+    "intro": "Concerts, portraits, documentary or travel: it’s the variety of projects that inspires and drives me."
+  },
+  "galeries": [
+    {
+      "slug": "concert",
+      "url": "concert",
+      "nom": "Concert",
+      "titre": "To freeze the energy of artists and their audience",
+      "intro": "As a huge music lover, photographing concerts is probably what inspires me most. It’s the quest for the perfect shot, where expressions, energy and light become one.",
+      "titre_seo": "Concert photographer in Rennes, France — Romane Chaslin",
+      "description": "Concert photography by Romane Chaslin, photographer based in Rennes, France: the energy of artists and their audience, on stage and in the crowd.",
+      "alt": "Concert photo"
+    },
+    {
+      "slug": "corporate",
+      "url": "corporate",
+      "nom": "Corporate",
+      "titre": "To showcase your business",
+      "intro": "Longchamp recently trusted me to showcase their boutique and capture its opening in Rennes.",
+      "titre_seo": "Corporate and event photographer in Rennes, France — Romane Chaslin",
+      "description": "Corporate and event photography in Rennes, France: boutiques, openings and businesses showcased by Romane Chaslin.",
+      "alt": "Corporate photo, opening of the Longchamp boutique in Rennes"
+    },
+    {
+      "slug": "reportage",
+      "url": "documentary",
+      "nom": "Documentary",
+      "titre": "To tell stories",
+      "intro": "The story that follows portrays a life apart: that of an abbey where time seems to stand still, a discreet yet captivating world.",
+      "titre_seo": "Documentary photographer — Romane Chaslin",
+      "description": "Documentary photography by Romane Chaslin: daily life in an abbey where time seems to stand still.",
+      "alt": "Documentary photo in an abbey"
+    },
+    {
+      "slug": "portrait",
+      "url": "portrait",
+      "nom": "Portrait",
+      "titre": "For poetic portraits",
+      "intro": "What I look for above all in a portrait session is natural images. My goal is to capture poetic pictures where you don’t even need to pose: you just let yourself be guided.",
+      "titre_seo": "Portrait photographer in Rennes, France — Romane Chaslin",
+      "description": "Portrait sessions in Rennes, France with Romane Chaslin: natural, poetic images, no forced posing.",
+      "alt": "Portrait"
+    },
+    {
+      "slug": "portrait-professionnel",
+      "url": "professional-portrait",
+      "nom": "Professional portrait",
+      "titre": "For portraits that inspire",
+      "intro": "A professional portrait goes far beyond a simple picture: it reflects your expertise, your professionalism and your personality. Whether for an online profile or corporate communication, making a great first impression is essential.",
+      "titre_seo": "Professional portrait photographer in Rennes, France — Romane Chaslin",
+      "description": "Professional portraits in Rennes, France: photos that reflect your expertise and personality, for LinkedIn or your company’s communication.",
+      "alt": "Professional portrait"
+    },
+    {
+      "slug": "tourisme",
+      "url": "travel",
+      "nom": "Elsewhere on Earth",
+      "titre": "To showcase a place, a culture or an entire region.",
+      "intro": "Travel: that timeless moment when you discover a culture and breathtaking landscapes. My goal is to spark your desire to learn about and explore the richness of our planet, 10 km from home or 15,000 km away.",
+      "titre_seo": "Travel and tourism photographer — Romane Chaslin",
+      "description": "Travel and tourism photography by Romane Chaslin: landscapes, cultures and regions, from Canada to Brittany.",
+      "alt": "Travel photo"
+    }
+  ],
+  "galerie_commun": {
+    "bouton": "Contact me",
+    "autres_titre": "Other galleries…",
+    "appel_titre": "Have a *project* in mind?",
+    "appel_bouton": "Let’s talk"
+  },
+  "about": {
+    "titre_seo": "About — Romane Chaslin, photographer in Rennes, France",
+    "description": "Who is Romane Chaslin? A photographer based in Rennes, France, passionate since the age of 14, working on film and digital.",
+    "titre": "Who am I?",
+    "paragraphes": [
+      "I’m Romane Chaslin, the eye behind all these photos. For years, I’ve been fascinated by the way light, shadows, lines and symmetry can shape a picture.",
+      "Along the way, I studied communication and marketing up to master’s level, lived in Canada for a year and held several positions at major French media outlets.",
+      "And even though I love my job, it’s always the passion for creating and imagining that inspires me most. Every time I shoot, the challenge is to bring out emotion, beauty and authenticity in every place and every person."
+    ],
+    "faits": [
+      [
+        "Based in",
+        "Rennes, France"
+      ],
+      [
+        "First camera",
+        "At 14"
+      ],
+      [
+        "My cameras",
+        "Film & digital"
+      ],
+      [
+        "Education",
+        "Master’s in communication & marketing"
+      ]
+    ],
+    "conclusion": "So if you’d like to tell me about a project, let’s talk right here!",
+    "bouton": "Contact me"
+  },
+  "page_contact": {
+    "titre_seo": "Contact — Romane Chaslin, photographer in Rennes, France",
+    "description": "Contact Romane Chaslin, photographer based in Rennes, France, for a concert, a portrait, a documentary or a corporate project.",
+    "titre": "Contact me",
+    "texte": "Questions, requests or comments? Feel free to send me a message, I’ll get back to you as soon as possible!",
+    "lieu": "Based in Rennes, France",
+    "succes": "Message sent, thank you! I’ll get back to you very soon.",
+    "erreur": "The message couldn’t be sent. Please try again in a moment, or reach me on Instagram.",
+    "non_configure": "The form isn’t connected to a mailbox yet: add the receiving address in contenu/site.json (contact.formsubmit).",
+    "activation": "This form is awaiting activation: FormSubmit has just sent an “Activate Form” email to the receiving address. Click the button in it, then send this message again."
+  }
+}

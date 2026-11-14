@@ -1,0 +1,15 @@
+# Site généré (reconstruit automatiquement par GitHub)
+site/
+
+# Photos téléchargées depuis l'ancien site Squarespace (sources lourdes)
+_import_squarespace/
+
+# Fichiers techniques
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+Thumbs.db
+
+# Archives (envoi du projet)
+*.zip

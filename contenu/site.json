@@ -1,0 +1,300 @@
+{
+  "nom": "Romane Chaslin",
+  "url": "https://www.romanechaslin.fr",
+  "ville": "Rennes",
+  "region": "Bretagne",
+  "metier": "Photographe",
+  "description": "Romane Chaslin, photographe à Rennes : concerts, portraits, reportages, photo corporate et voyage. Capter le moment qui fera la différence.",
+  "image_partage": "dsc-1117",
+  "reseaux": [
+    {
+      "nom": "Instagram",
+      "url": "https://www.instagram.com/romane.chaslin/"
+    },
+    {
+      "nom": "Pinterest",
+      "url": "https://www.pinterest.com/romane_chln/"
+    },
+    {
+      "nom": "TikTok",
+      "url": "https://www.tiktok.com/@romane_chaslin"
+    },
+    {
+      "nom": "LinkedIn",
+      "url": "https://www.linkedin.com/in/romane-chaslin/"
+    }
+  ],
+  "contact": {
+    "formsubmit": "6031f5ad3a67a3c19fed8fed1fd03472",
+    "sujet_mail": "Nouveau message depuis romanechaslin.fr",
+    "types_projet": [
+      {
+        "cle": "concert",
+        "nom": "Concert"
+      },
+      {
+        "cle": "corporate",
+        "nom": "Corporate"
+      },
+      {
+        "cle": "reportage",
+        "nom": "Reportage"
+      },
+      {
+        "cle": "portrait",
+        "nom": "Portrait"
+      },
+      {
+        "cle": "portrait-pro",
+        "nom": "Portrait professionnel"
+      },
+      {
+        "cle": "voyage",
+        "nom": "Voyage / tourisme"
+      },
+      {
+        "cle": "autre",
+        "nom": "Autre"
+      }
+    ]
+  },
+  "mentions": {
+    "statut": "Entrepreneur individuel (EI), micro-entreprise",
+    "statut_en": "Sole proprietor (French “entrepreneur individuel”, micro-enterprise)",
+    "siret": "980 691 596 00012",
+    "hebergeur": "GitHub, Inc. — 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis — pages.github.com"
+  },
+  "interface": {
+    "aller_contenu": "Aller au contenu",
+    "accueil": "Accueil",
+    "accueil_aria": "accueil",
+    "portfolio": "Portfolio",
+    "about": "À propos",
+    "contact": "Contact",
+    "mentions": "Mentions légales",
+    "nav_principale": "Navigation principale",
+    "nav_mobile": "Navigation mobile",
+    "ouvrir_menu": "Ouvrir le menu",
+    "fermer_menu": "Fermer le menu",
+    "autre_langue": "English",
+    "autre_langue_court": "EN",
+    "autre_langue_aria": "English version",
+    "le_site": "Le site",
+    "thematiques": "Thématiques",
+    "me_suivre": "Me suivre",
+    "droits": "Toutes les photos sont protégées par le droit d’auteur.",
+    "nouvel_onglet": "nouvel onglet",
+    "photo": "photo",
+    "photos": "photos",
+    "sur": "sur",
+    "voir_instagram": "Voir sur Instagram",
+    "choisir_diapo": "Choisir la photo affichée",
+    "visionneuse": "Visionneuse de photos",
+    "fermer": "Fermer",
+    "precedente": "Photo précédente",
+    "suivante": "Photo suivante",
+    "affichage": "Affichage",
+    "vue_galerie": "Galerie",
+    "vue_planche": "Planche contact",
+    "eteindre": "Éteindre la lumière",
+    "rallumer": "Rallumer la lumière",
+    "galerie_de": "Galerie",
+    "envoi": "Envoi en cours…",
+    "envoyer": "Envoyer",
+    "prenom": "Prénom",
+    "nom": "Nom",
+    "email": "E-mail",
+    "type_projet": "Type de projet",
+    "choisir": "Choisir…",
+    "message": "Message",
+    "obligatoire": "obligatoire",
+    "anti_robot": "Ne pas remplir",
+    "titre_404": "Cette page n’existe pas ou a changé d’adresse.",
+    "bouton_404": "Voir le portfolio",
+    "musicien_alt": "Musicien sur scène, en noir et blanc",
+    "passion_alt": "Le Mont-Saint-Michel et un troupeau de moutons au coucher du soleil",
+    "romane_alt": "Portrait de Romane Chaslin"
+  },
+  "accueil": {
+    "titre_seo": "Romane Chaslin — Photographe à Rennes",
+    "heros": {
+      "titre": "Bienvenue",
+      "accroche_titre": "Photographe à Rennes",
+      "accroche": "Concerts, portraits, reportages et voyages.",
+      "diapos": [
+        {
+          "photo": "dsc-1117",
+          "galerie": "concert"
+        },
+        {
+          "photo": "dsc-1714-version-2",
+          "galerie": "reportage",
+          "position": "50% 60%"
+        },
+        {
+          "photo": "dsc-2063",
+          "galerie": "portrait",
+          "position": "40% 40%"
+        },
+        {
+          "photo": "p17-9962",
+          "galerie": "tourisme",
+          "libelle": "Voyage"
+        }
+      ]
+    },
+    "regard": {
+      "vague": "Mon regard sur la photographie",
+      "photo": "dsc-8108-copie",
+      "texte": "Passionnée de photographie depuis plusieurs années, j’aime me lancer des défis et m’aventurer dans divers domaines. Concerts, mariages, photos de rue ou tourisme, c’est la variété des projets qui m’inspire et me motive. Que ce soit avec un appareil photo argentique ou un boitier dernière génération, l’objectif derrière mes images est toujours le même : capter le moment qui fera la différence.",
+      "bouton": "Je découvre les photos"
+    },
+    "themes": {
+      "titre": "Les thématiques",
+      "lien": "Tout le portfolio"
+    },
+    "passion": {
+      "photo": "p17-9796-01",
+      "titre": "À propos…",
+      "etiquette": "Une passion qui a débuté tôt",
+      "paragraphes": [
+        "J’ai eu mon premier appareil photo à 14 ans, et depuis, il ne m’a plus quitté. Au fil des années, j'ai exploré des paysages variés et capturé des moments qui semblent suspendus dans le temps. Chaque image raconte une histoire, que ce soit cet ours au Canada, ce regard amoureux ou ce chanteur vivant sa dernière date de tournée.",
+        "Bienvenue dans mon univers !"
+      ],
+      "lien": "En savoir plus sur moi"
+    },
+    "instagram": {
+      "vague": "Suis-moi sur Instagram",
+      "photos": [
+        "dsc-6810",
+        "dsc-0151",
+        "dsc-7462"
+      ],
+      "bouton": "En voir plus"
+    }
+  },
+  "portfolio": {
+    "titre_seo": "Portfolio — Romane Chaslin, photographe à Rennes",
+    "description": "Le portfolio de Romane Chaslin, photographe à Rennes : concerts, corporate, reportage, portrait, portrait professionnel et photo de voyage.",
+    "etiquette": "Portfolio",
+    "titre": "Capter le moment qui fera la *différence*",
+    "intro": "Concerts, portraits, reportages ou voyages : c’est la variété des projets qui m’inspire et me motive."
+  },
+  "galeries": [
+    {
+      "slug": "concert",
+      "nom": "Concert",
+      "titre": "Pour figer l’énergie de l’artiste et de son public",
+      "intro": "En tant que grande passionnée de musique, photographier des concerts est sans doute ce qui m’inspire le plus. C’est la quête de la photo parfaite où expressions, énergies et lumières ne font qu’un.",
+      "titre_seo": "Photographe concert à Rennes — Romane Chaslin",
+      "description": "Photographie de concert par Romane Chaslin, photographe à Rennes : l’énergie des artistes et de leur public, sur scène et dans la fosse.",
+      "couverture": "dsc-0844",
+      "vignette": "dsc-6250",
+      "alt": "Photo de concert"
+    },
+    {
+      "slug": "corporate",
+      "nom": "Corporate",
+      "titre": "Pour mettre en valeur vos commerces",
+      "intro": "Longchamp m’a récemment accordé sa confiance pour valoriser leur boutique et immortaliser son ouverture à Rennes.",
+      "titre_seo": "Photographe corporate et événementiel à Rennes — Romane Chaslin",
+      "description": "Photographie corporate et événementielle à Rennes : boutiques, inaugurations et commerces mis en valeur par Romane Chaslin.",
+      "couverture": "dsc-5803",
+      "vignette": "dsc-5905-2",
+      "alt": "Photo corporate, ouverture de la boutique Longchamp à Rennes"
+    },
+    {
+      "slug": "reportage",
+      "nom": "Reportage",
+      "titre": "Pour raconter des histoires",
+      "intro": "L’histoire qui suit raconte un quotidien à part, celui d’une abbaye où le temps semble suspendu, un monde discret mais captivant.",
+      "titre_seo": "Photographe reportage — Romane Chaslin",
+      "description": "Reportage photo par Romane Chaslin : le quotidien d’une abbaye où le temps semble suspendu.",
+      "couverture": "dsc-1714-version-2",
+      "vignette": "dsc-1968",
+      "alt": "Photo de reportage dans une abbaye"
+    },
+    {
+      "slug": "portrait",
+      "nom": "Portrait",
+      "titre": "Pour des portraits poétiques",
+      "intro": "Ce que je recherche avant tout lors d’une séance portrait, ce sont des clichés naturels. Mon objectif est de capturer des images poétiques où la personne n’a même pas besoin de poser, elle n’a qu’à se laisser guider.",
+      "titre_seo": "Photographe portrait à Rennes — Romane Chaslin",
+      "description": "Séances portrait à Rennes avec Romane Chaslin : des images naturelles et poétiques, sans pose forcée.",
+      "couverture": "dsc-8431",
+      "vignette": "dsc-2066",
+      "alt": "Portrait"
+    },
+    {
+      "slug": "portrait-professionnel",
+      "nom": "Portrait professionnel",
+      "titre": "Pour des portraits qui inspirent",
+      "intro": "Un portrait professionnel va bien au-delà d'une simple image : il reflète votre expertise, votre sérieux et votre personnalité. Que ce soit pour un profil en ligne ou une communication d’entreprise, il est essentiel de faire bonne impression dès le premier regard.",
+      "titre_seo": "Photographe portrait professionnel à Rennes — Romane Chaslin",
+      "description": "Portraits professionnels à Rennes : des photos qui reflètent votre expertise et votre personnalité, pour LinkedIn ou votre communication d’entreprise.",
+      "couverture": "dsc-9068-copie",
+      "couverture_position": "50% 25%",
+      "vignette": "c4",
+      "alt": "Portrait professionnel"
+    },
+    {
+      "slug": "tourisme",
+      "nom": "Ailleurs sur Terre",
+      "titre": "Pour mettre en valeur un lieu, une culture ou une région toute entière.",
+      "intro": "Le voyage, ce moment hors du temps où l’on découvre une culture et des paysages exceptionnels. Mon objectif est d’éveiller en vous l’envie d’apprendre et d’explorer la richesse de notre planète, à 10km de chez vous ou à 15 000.",
+      "titre_seo": "Photographe tourisme et voyage — Romane Chaslin",
+      "description": "Photographie de voyage et de tourisme par Romane Chaslin : paysages, cultures et régions, du Canada à la Bretagne.",
+      "couverture": "p17-0520-2",
+      "vignette": "tempimagelcnvzc",
+      "alt": "Photo de voyage"
+    }
+  ],
+  "galerie_commun": {
+    "bouton": "Me contacter",
+    "autres_titre": "D’autres thématiques…",
+    "appel_titre": "Un projet en *tête* ?",
+    "appel_bouton": "Parlons-en"
+  },
+  "about": {
+    "titre_seo": "À propos — Romane Chaslin, photographe à Rennes",
+    "description": "Qui est Romane Chaslin ? Photographe basée à Rennes, passionnée depuis ses 14 ans, entre argentique et numérique.",
+    "photo": "romane-portrait",
+    "titre": "Qui suis-je ?",
+    "paragraphes": [
+      "Je suis Romane Chaslin, l’oeil derrière toutes ces photos. Depuis des années, la manière dont la lumière, les ombres, les lignes et la symétrie peuvent moduler un cliché me fascine.",
+      "Entre temps, j’ai fait des études en communication et marketing jusqu’au niveau master, j'ai vécu un an au Canada et j’ai exercé plusieurs postes dans de grands médias français.",
+      "Et même si j’aime mon métier, c’est toujours la passion de créer et d’imaginer qui m’inspire le plus. Lorsque je photographie, chaque session est un challenge pour faire ressortir de l’émotion, de la beauté et de l’authenticité dans chaque lieu, chaque personne."
+    ],
+    "faits": [
+      [
+        "Basée à",
+        "Rennes"
+      ],
+      [
+        "Premier appareil",
+        "À 14 ans"
+      ],
+      [
+        "Mes boîtiers",
+        "Argentique & numérique"
+      ],
+      [
+        "Formation",
+        "Master com’ & marketing"
+      ]
+    ],
+    "conclusion": "Alors si vous souhaitez me parler d’un projet, on se retrouve juste ici !",
+    "bouton": "Me contacter"
+  },
+  "page_contact": {
+    "titre_seo": "Contact — Romane Chaslin, photographe à Rennes",
+    "description": "Contactez Romane Chaslin, photographe à Rennes, pour un concert, un portrait, un reportage ou un projet corporate.",
+    "titre": "Me contacter",
+    "texte": "Des interrogations, des demandes ou des remarques ? N’hésitez pas à m’envoyer un message, je vous répondrai le plus rapidement possible !",
+    "lieu": "Basée à Rennes",
+    "succes": "Message envoyé, merci ! Je vous réponds au plus vite.",
+    "erreur": "L’envoi n’a pas abouti. Réessayez dans un instant, ou écrivez-moi sur Instagram.",
+    "non_configure": "Le formulaire n’est pas encore relié à une boîte mail : indiquez l’adresse de réception dans contenu/site.json (contact.formsubmit).",
+    "activation": "Formulaire en attente d’activation : FormSubmit vient d’envoyer un e-mail « Activate Form » à l’adresse de réception. Cliquez sur le bouton qu’il contient, puis renvoyez ce message."
+  }
+}
